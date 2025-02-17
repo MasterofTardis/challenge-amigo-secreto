@@ -1,6 +1,6 @@
 # Amigo Secreto 🎁
 
-![Portada del Proyecto](ruta/a/Portada/imagen-de-portada.png)
+![Portada del Proyecto]("C:\Users\ediso\OneDrive\Documentos\Portada/imagen-de-portada.png)
 
 ## Índice
 
@@ -22,9 +22,7 @@
 
 ## Estado del Proyecto
 
-![Estado del Proyecto]()
-
-El proyecto está actualmente en desarrollo activo. Se planean futuras mejoras y nuevas funcionalidades.
+El proyecto está actualmente Terminado. Se planean futuras mejoras y nuevas funcionalidades.
 
 ## Características
 
@@ -38,10 +36,6 @@ El proyecto está actualmente en desarrollo activo. Se planean futuras mejoras y
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 
-## Acceso al Proyecto
-
-Puedes acceder al proyecto en funcionamiento aquí: [challenge-amigo-secreto - GitHub Pages]()
-
 ## Instalación
 
 Para ejecutar el proyecto localmente, sigue estos pasos:
@@ -49,4 +43,5 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 1. **Clonar el repositorio:**
 
    ```bash
-  
+  $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
+  cd challenge-amigo-secreto
