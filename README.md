@@ -57,7 +57,8 @@ El proyecto está actualmente Terminado. Se planean futuras mejoras y nuevas fun
 
 ## **Clonar el repositorio:**
 
-   ```bash $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
+   ```bash
+  $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
   
   cd challenge-amigo-secreto
 
