@@ -38,7 +38,7 @@ El proyecto está actualmente Terminado. Se planean futuras mejoras y nuevas fun
 
 - Si la lista está vacía, aparecerá una alerta indicando que debes agregar nombres.
 
--Si se escribe números o signos de puntuación, aparecerá una alerta indicando que se ingrese un nombre válido (solo letras y espacios). 
+- Si se escribe números o signos de puntuación, aparecerá una alerta indicando que se ingrese un nombre válido (solo letras y espacios). 
 
 ## Tecnologías Utilizadas
 
