@@ -8,11 +8,9 @@
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Demostración](#demostración)
-- [Acceso al Proyecto](#acceso-al-proyecto)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribuyentes](#contribuyentes)
+- [Clonar el repositorio](#Clonarelrepositorio)
 - [Desarrollador](#desarrollador)
 - [Licencia](#licencia)
 
@@ -40,8 +38,24 @@ El proyecto está actualmente Terminado. Se planean futuras mejoras y nuevas fun
 
 Para ejecutar el proyecto localmente, sigue estos pasos:
 
-1. **Clonar el repositorio:**
+## Uso
 
-   ```bash
-  $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
+- Escribe un nombre en el campo de entrada.
+
+- Presiona el botón "Añadir" o la tecla "Enter" para agregar el nombre a la lista.
+
+- Cuando haya nombres en la lista, presiona "Sortear amigo" para elegir uno al azar.
+
+- Si la lista está vacía, aparecerá una alerta indicando que debes agregar nombres.
+
+## **Clonar el repositorio:**
+
+   ```bash $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
+  
   cd challenge-amigo-secreto
+
+## Desarrollador 
+- MasterofTardis
+
+## Licencia 
+- Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
