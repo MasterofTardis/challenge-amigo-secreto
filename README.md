@@ -1,18 +1,20 @@
 # Amigo Secreto 🎁
 
-![Portada del Proyecto]("C:\Users\ediso\OneDrive\Documentos\Portada/imagen-de-portada.png)
+![Portada del Proyecto]("C:\Users\ediso\OneDrive\Documentos\Portada/imagen-de-portada.png.png)
 
 ## Índice
 
 - [Descripción](#descripción)
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Características](#características)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Instalación](#instalación)
 - [Uso](#uso)
-- [Clonar el repositorio](#Clonarelrepositorio)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Desarrollador](#desarrollador)
 - [Licencia](#licencia)
+- [Instalación](#instalación)
+- [Clonar el repositorio](#Clonarelrepositorio)
+
+
 
 ## Descripción
 
@@ -28,16 +30,6 @@ El proyecto está actualmente Terminado. Se planean futuras mejoras y nuevas fun
 - **Sorteo Aleatorio**: Selecciona un amigo secreto de manera aleatoria entre los participantes.
 - **Interfaz Intuitiva**: Diseño sencillo y fácil de usar.
 
-## Tecnologías Utilizadas
-
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
-
-## Instalación
-
-Para ejecutar el proyecto localmente, sigue estos pasos:
-
 ## Uso
 
 - Escribe un nombre en el campo de entrada.
@@ -48,14 +40,27 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 - Si la lista está vacía, aparecerá una alerta indicando que debes agregar nombres.
 
-## **Clonar el repositorio:**
+-Si se escribe números o signos de puntuación, aparecerá una alerta indicando que se ingrese un nombre válido (solo letras y espacios). 
 
-   ```bash $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
-  
-  cd challenge-amigo-secreto
+## Tecnologías Utilizadas
+
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 
 ## Desarrollador 
 - MasterofTardis
 
 ## Licencia 
 - Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
+
+## Instalación
+- Para ejecutar el proyecto localmente, sigue estos pasos:
+
+## **Clonar el repositorio:**
+
+   ```bash $ git remote add origin https://github.com/MasterofTardis/challenge-amigo-secreto.git
+  
+  cd challenge-amigo-secreto
+
+
