@@ -1,7 +1,5 @@
 # Amigo Secreto 🎁
 
-![Portada del Proyecto]("C:\Users\ediso\OneDrive\Documentos\Portada/imagen-de-portada.png.png)
-
 ## Índice
 
 - [Descripción](#descripción)
